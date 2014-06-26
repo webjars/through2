@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>through2</artifactId>
-    <version>0.5.1-SNAPSHOT</version>
+    <version>0.5.1</version>
     <name>through2</name>
     <description>WebJar for through2</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/through2</url>
         <connection>scm:git:https://github.com/webjars/through2.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/through2.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>through2-0.5.1</tag>
     </scm>
 
     <developers>
